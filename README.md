@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @uselessemperor
 - 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning blockchain
-- 💞️ I’m looking to collaborate on Dapps
-- 📫 How to reach me ...
+- 🌱 I’m currently learning blockchain\
 
 <!---
 uselessemperor/uselessemperor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
